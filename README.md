@@ -1,2 +1,1 @@
-# Hello_World
-This is my first repository.
+Paul_Cui
